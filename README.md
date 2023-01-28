@@ -1,7 +1,7 @@
 # scd30-prometheus-exporter
 A prometheus exporter that reads data from the SCD-30 CO2 sensor
 
-It's exepcted that the sensor is connected and calibrated. Otherwise, please read the manuals from the vendor how to do this.
+It's expected that the sensor is connected and calibrated. Otherwise, please read the manuals from the vendor how to do this.
 
 ## Installation
 Only steps for Debian are provided, for other distros or OS they might differ.
